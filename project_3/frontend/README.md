@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal (React)[ frontend  React working in [Vite](https://vite.dev)
+This template provides a minimal [React](https://react.dev/) frontend  React working in [Vite](https://vite.dev)
 
 ## Setup
 ### Install Node and NPM
@@ -13,12 +13,19 @@ brew install node
 
 #### Windows
 
-- TBD
+- See: [Download Node.js](https://nodejs.org/en/download)
 
 ## Build Project
+
+### Install libraries
+
+```shell
+npm install
+```
+
+### Run frontend
 
 ```shell
 npm run preview
 ```
-
 
